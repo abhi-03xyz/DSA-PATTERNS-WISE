@@ -43,9 +43,12 @@ public class TwoSum2 {
                 j--;
             }
         }
+        
          throw new IllegalArgumentException("No two sum solution");
     }
     public static void main(String[] args) {
-        
+        /*/ */
+        int numbers[]={2,3,4};
+        int tar=6;
     }
 }
